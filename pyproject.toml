@@ -6,7 +6,8 @@ authors = ["Rafael Pilliard-Hellwig <rafael.taph@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = ">=3.7.1,<4.0"
+pandas = "^1.2.2"
 
 [tool.poetry.dev-dependencies]
 
